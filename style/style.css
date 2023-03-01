@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #9D4F4F;
+}
+.one{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Comfortaa', cursive;
+
+}
+.formavxoda{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    height: 450px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2em;
+    border-radius: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+.pola{
+    height: 3em;
+    width: 100%;
+    padding: 1em;
+    border-radius: 5px;
+    border-color: snow;
+    border-width: 1.5px;
+    margin: 3px;
+    background-color: #d8d7db;
+    font-family: 'Comfortaa', cursive;
+}
+.onekp{
+    height: 3em;
+    width: 100%;
+    background: #9D4F4F;
+    border: transparent;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin-top: 40Px;
+    font-family: 'Comfortaa', cursive;
+}
+.twokp{
+    height: 3em;
+    width: 100%;
+    background: #9D4F4F;
+    border: transparent;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Comfortaa', cursive;
+}
+p{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+.onep{
+    margin-top: ;
+}
+.onea{
+    text-decoration:none;
+    color: white;
+}
+.twoa{
+    text-decoration: none;
+    color: white;
+}
